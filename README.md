@@ -1,4 +1,7 @@
 # critical_nets_riemannian_manifolds
+
+BsC project, written in MATLAB
+
 Construction of critical nets in 2D and 3D euclidean spaces
 
 Once the Code.zip file is extracted, you may run one or more of the example scripts: Script_example_2D.m, Script_example_3D.m, Script_experiment.m. 
